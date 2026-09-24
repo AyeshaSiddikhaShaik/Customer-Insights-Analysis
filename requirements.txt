@@ -1,0 +1,7 @@
+pandas
+numpy
+jupyter
+openpyxl
+postgresql
+power BI
+Excel
